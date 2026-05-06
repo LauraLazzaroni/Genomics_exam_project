@@ -153,3 +153,4 @@ while read SEQ_MODE TRIO_NUM CHILD_ID FATHER_ID MOTHER_ID INHERITANCE NOTES; do
 
 
 done < analysis_info.txt
+
