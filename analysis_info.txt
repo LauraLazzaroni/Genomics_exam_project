@@ -1,0 +1,6 @@
+PE trio_1 HG00421 HG00422 HG00423 AR NA
+PE trio_2 HG00421 HG00422 HG00423 AD_inherited father_affected
+PE trio_3 HG00421 HG00422 HG00423 AD_denovo NA
+PE trio_4 HG00421 HG00422 HG00423 AR NA
+PE trio_5 HG00421 HG00422 HG00423 AR NA
+seq_mode trio_id child_id father_id mother_id inheritance notes   # DO NOT add a new line
