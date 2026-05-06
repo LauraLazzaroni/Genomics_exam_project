@@ -68,6 +68,8 @@ How to launch the script:
 1. Make the script executable: `chmod +x script.sh`
 2. Launch the script: `./script.sh`
 
+Remember to change the path to the directories at the beginning!
+
 ## Output
 At the end of each trio analysis, all the necessary files to visualize the coverage tracks on UCSC Genome Browser are automatically copied inside an export folder (e.g. `trio_1_export`).
 This folder will contain:
