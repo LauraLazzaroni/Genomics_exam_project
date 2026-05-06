@@ -14,6 +14,8 @@
 # Inside this folder, a sub-folder will be automatically created for each trio
 # The sub-folder will contain the files required for each specific trio analysis (aka 'trio-specific files')
 
+# Remember to change the path to the directories at the beginning!
+
 
 ### IMPORTING COMMON FILES ###
 
